@@ -45,4 +45,4 @@ docker rm webserver
 ### To remove image from machine
 ```
 docker rmi nginx
-```›
+```
